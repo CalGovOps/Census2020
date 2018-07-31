@@ -23,3 +23,5 @@ As Data and GIS Mapping Manager for the California Census, you will be the techn
 >
 Go to: https://www.gov.ca.gov/appointments-application/ 
 Complete all of the fields and choose "Census- Data and GIS Mapping Manager" from the drop down box in section 3.
+>
+[Duty Statement HERE](https://github.com/CalGovOps/Census2020/blob/master/CCC%20GIS%20Mapping%20Manager.docx) 
